@@ -139,7 +139,7 @@ The dataset contains important cricket performance attributes such as:
 
 ## 🏏 Dashboard Screenshot
 
-![Hardik Pandya Dashboard](images/Hardik%20pandya%20image.png)
+![Hardik Pandya Dashboard](https://github.com/Kirubasankar-K-R/-Hardik-Himanshu-Pandya---Analysis/blob/main/Hardik%20pandya%20image.png)
 
 ---
 
